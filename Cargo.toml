@@ -1,0 +1,13 @@
+[package]
+name = "seagaze"
+version = "0.1.0"
+edition = "2021"
+description = "Resources facilitating the search of sequential games."
+authors = ["Max Fierro <maxfierro@berkeley.edu>"]
+license = "GPL-3.0"
+repository = "https://github.com/GamesCrafters/GamesmanNova"
+keywords = ["game", "solver", "search", "research"]
+readme = "README.md"
+exclude = ["/.github"]
+
+[dependencies]
